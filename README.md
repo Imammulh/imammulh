@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+I'm currently learning as Computer Science Student at IPB University. Honestly I'm not good at coding haha, but I love to implement interfaces 💛. To implement interfaces, I have some experience with React Js and bootstrap.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imam-mulhaq-rosyadi-2a454a198/)
+
+Thank you.
+Regards, Imam.
+
 
 <!--
 **Imammulh/imammulh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
