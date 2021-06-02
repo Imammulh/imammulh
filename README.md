@@ -3,7 +3,7 @@ I'm currently learning as Computer Science Student at IPB University. Honestly I
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imam-mulhaq-rosyadi-2a454a198/)
 
-Thank you.
+Thank you. <br>
 Regards, Imam.
 
 
